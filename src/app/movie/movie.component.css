@@ -1,0 +1,16 @@
+.movie-card{
+    max-height: 1200px;
+}
+
+.card-header{
+   text-align: left;
+
+}
+
+.plot{
+    height: 120px;
+}
+
+.poster{
+    height: 350px;
+}
